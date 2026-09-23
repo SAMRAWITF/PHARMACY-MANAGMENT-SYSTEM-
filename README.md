@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💊 Pharmacy Management System
 
 A modern, full-featured Pharmacy Management System built with **Next.js (App Router)**, **MySQL**, and **TypeScript**.  
@@ -144,3 +145,7 @@ Visit http://localhost:3000 in your browser.
 ## ⭐ Support
 
 If you find this project useful, give it a star! Your support means a lot.
+=======
+# PHARMACY-MANAGMENT-SYSTEM-
+# Pharmacy Management System  A pharmacy management system built with **Next.js, TypeScript, React, and Tailwind CSS** for managing medicines, inventory, sales, purchases, suppliers, and customers.
+>>>>>>> d4cff2debe134d1ed7593591a0b50d09e650e5c9
